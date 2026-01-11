@@ -13,7 +13,7 @@ The project is intentionally designed to make the lives of many biochemists like
 
 ---
 
-### Project description
+## Project description
 
 This project proposes the development of an automated **buffer composition calculator** designed to assist biochemists in preparing laboratory buffers quickly and accurately. The tool allows users to define their laboratory stock solutions once, after which the program automatically remembers and reuses this information for future calculations. Users then only need to specify the desired buffer recipe—final volume and target concentrations—and the application outputs precise pipetting volumes for each component.
 
